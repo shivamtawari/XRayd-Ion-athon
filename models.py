@@ -12,7 +12,7 @@ from tensorflow.keras.preprocessing.image import load_img, img_to_array
 from tensorflow.keras import Model
 from tensorflow.keras import layers
 from explain import VizGradCAM
-from classification_models.tfkeras import Classifiers
+#from classification_models.tfkeras import Classifiers
 import matplotlib
 matplotlib.use('Agg')
 
