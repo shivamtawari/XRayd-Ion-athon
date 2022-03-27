@@ -1,6 +1,6 @@
-# AI for Healthcare Hackathon
+# Xrayd
 
-This is the final submission for AI for Healthcare by Derbi Foundation from the Artificial Mind.
+This is the final submission for ION-ATHON from the Artificial Mind.
 
 ## Installation
 
