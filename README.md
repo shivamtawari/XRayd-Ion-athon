@@ -1,6 +1,6 @@
 # Xrayd
 
-This is the final submission for ION-ATHON from the Artificial Mind.
+This is the final submission from the Artificial Mind.
 
 ## Installation
 
